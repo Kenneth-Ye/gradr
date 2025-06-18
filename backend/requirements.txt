@@ -1,3 +1,6 @@
-Pillow==10.0.0
-python-multipart==0.0.6
-sse-starlette==1.8.0
+fastapi
+uvicorn
+celery[redis]
+redis
+aiofiles
+fastapi-limiter
